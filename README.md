@@ -1,2 +1,0 @@
-# QuizQ-com
-Quizサイトです1
