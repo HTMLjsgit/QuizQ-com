@@ -1,0 +1,42 @@
+body {
+	background: #ffffe0;
+	margin:0 auto;
+}
+
+#text {
+	width: 250px;
+	height: 10px;
+	display:none;
+}
+
+#nikonama,
+#twitch{
+	display:none;
+
+}
+
+#twitch:hover{
+	color: #ff8c00;
+}
+
+#nikonama:hover{
+	color:#ff8c00 ;
+}
+
+#div{
+	background: #b0c4de;
+	height: 630px;
+	width: 850px;
+	margin-left: 270px;
+
+}
+
+#zikoshoukai{
+		position: absolute;
+		top: 100px;
+		left: 0;
+}
+
+#meil:hover{
+	color:#ff8c00;
+}
